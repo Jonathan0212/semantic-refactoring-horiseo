@@ -16,9 +16,9 @@
 * Gave the webpage a title 
 * When viewing the html code it is more organized with semantic elements
 * Styles page follows the web page, everything follows the structure of the page
-* Every imgage has a alt attribute 
+* Every image has a alt attribute 
 * Added comments to styles page and html code to making reading easier
-* Both styles page and html code are neatly spaced out seperating each section neatly
+* Both styles page and html code are neatly spaced out 
 
 
 ## Screenshots
